@@ -1,0 +1,12 @@
+# Preprocessing 
+  1. stalk-surface-above-ring
+  2. stalk-surface-below-ring
+  3. stalk-color-above-ring
+  4. stalk-color-below-ring
+  5. habitat
+  6. veil-type
+  7. veil-color
+  8. ring-number
+  9. ring-type
+  10. spore-print-color
+  11. population
