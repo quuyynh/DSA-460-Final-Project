@@ -1,1 +1,12 @@
-
+# Pre-processing: 
+  1. cap-shape
+  2. cap-surface
+  3. cap-color
+  4. bruises?
+  5. odor 
+  6. gill-attachment 
+  7. gill-spacing
+  8. gill-size
+  9. gill-color
+  10. stalk-shape
+  11. stalk-root
