@@ -59,32 +59,29 @@ List Your First and Last Name Only ! Exactly as Appeared in the CSU CampusNet. D
 If We Can't Find You by Your Name appeared on Your Project Report and Presentation Schedule. Your Project will be Considered as Missing with 0.
 
  
-### Task 4:
-Final Group Project Report Submission Instructions (By the End of Friday of Your Presentation Week):
-Submit Group Project Presentation and Final Report in a Zip File By the End of Friday of Your Presentation Week !
-Remember you have to include the source file of your Project Report in doc and Presentation slides in pptx !
-If your data file is too big to upload, Submit your zip file with your Data file on your ONE drive and Send email to me and TA attached the data file on One Drive.
+## Task 4:
+  Final Group Project Report Submission Instructions (By the End of Friday of Your Presentation Week):
+  Submit Group Project Presentation and Final Report in a Zip File By the End of Friday of Your Presentation Week !
+  Remember you have to include the source file of your Project Report in doc and Presentation slides in pptx !
+  If your data file is too big to upload, Submit your zip file with your Data file on your ONE drive and Send email    to me and TA attached the data file on One Drive.
 
 
-Submit a Zip file that includes:
+### Submit a Zip file that includes:
 
-1. All of your presentation slides (both in .ppt and .pdf) and
-2. Your Group Final Project Report (in doc) that shows with:
-1.Platform/System Set up Procedures/Instructions,
-2. Evaluation Results and Visualization of the Results
-3. Executions Steps, all the source codes/scripts, all the intermediate outputs, and final output files
-4. Include the Problems/Error Encountered and Your Resolutions in Your Report
+  1. All of your presentation slides (both in .ppt and .pdf) and
+  2. Your Group Final Project Report (in doc) that shows with:
+  1.Platform/System Set up Procedures/Instructions,
+  2. Evaluation Results and Visualization of the Results
+  3. Executions Steps, all the source codes/scripts, all the intermediate outputs, and final output files
+  4. Include the Problems/Error Encountered and Your Resolutions in Your Report
 
+  One Submission Per Group Required.
 
+  Submit a Zip File that Includes All the required Source Files, Input, Output Files, and Final Report (in Doc file)   and Presentation Slides (in pptx).
 
+  Your Final Project Report Should Include the Set Up Procedure /Configuration Detail of Your   Platform/System/Packages as well as Source Codes and Intermediate Results in files.
 
-One Submission Per Group Required.
+  The Report Should Explain Each Step of Your Project Tasks with the Screen Captures and Results.
 
-Submit a Zip File that Includes All the required Source Files, Input, Output Files, and Final Report (in Doc file) and Presentation Slides (in pptx).
-
-Your Final Project Report Should Include the Set Up Procedure /Configuration Detail of Your Platform/System/Packages as well as Source Codes and Intermediate Results in files.
-
-The Report Should Explain Each Step of Your Project Tasks with the Screen Captures and Results.
-
-If you don't show/include any of the required contents in your report and presentation, I will ASSUME that your group submitted a Copy of Somebody's Github Codes from the Web.
+  If you don't show/include any of the required contents in your report and presentation, I will ASSUME that your   group submitted a Copy of Somebody's Github Codes from the Web.
 
