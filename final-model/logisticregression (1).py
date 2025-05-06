@@ -28,7 +28,7 @@ features = [
 df = df[features + ['class']]
 
 le = LabelEncoder()
-df = df.copy()  # avoid SettingWithCopyWarning
+df = df.copy()  
 
 for col in df.columns:
     df[col] = le.fit_transform(df[col])
@@ -90,8 +90,7 @@ features = [
 df = df[features + ['class']]
 
 le = LabelEncoder()
-df = df.copy()  # avoid SettingWithCopyWarning
-
+df = df.copy()  
 for col in df.columns:
     df[col] = le.fit_transform(df[col])
 
